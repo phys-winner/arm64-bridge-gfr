@@ -1,0 +1,102 @@
+{
+  "schema": 1,
+  "scope": "Exact immutable ARM32 functional source and byte-table copies; HOST64 wrappers in grim_hooks.cpp interpret the ARM32 addresses.",
+  "files": [
+    {
+      "original": "work/cleanup_analysis/mouse_snapshot.h",
+      "local": "grim_reference/mouse_snapshot.h",
+      "bytes": 3757,
+      "sha256": "4afff7eb222b065b52794d22404c0cb9f55c7e72d39b15f80802bc8d266d79c5"
+    },
+    {
+      "original": "work/cleanup_analysis/touch_primary.h",
+      "local": "grim_reference/touch_primary.h",
+      "bytes": 2079,
+      "sha256": "ede8e41d53af468ca9689466292d3138969d2dda282dffe866c5ccfcb06b2da2"
+    },
+    {
+      "original": "work/cleanup_analysis/mouse_preimages.h",
+      "local": "grim_reference/mouse_preimages.h",
+      "bytes": 1710,
+      "sha256": "4f244995244184d9e3bf70d3d23acb15d8b7cb210f22570400bc05a41e26619f"
+    },
+    {
+      "original": "work/cleanup_analysis/qa_export_preimages.h",
+      "local": "grim_reference/qa_export_preimages.h",
+      "bytes": 1850,
+      "sha256": "a3d2ea2500e7ded85837654463e9ea3a7fe217d535326ee51bc96ff4235790d6"
+    },
+    {
+      "original": "work/cleanup_analysis/qa_overlay_preimages.h",
+      "local": "grim_reference/qa_overlay_preimages.h",
+      "bytes": 3463,
+      "sha256": "b02363486d627bb9a12eb46ffbc4f1e0944f0ea9ea9589f6a4f834e7cbb424a8"
+    },
+    {
+      "original": "work/cleanup_analysis/save_title_C38/save_title_preimages.h",
+      "local": "grim_reference/save_title_preimages.h",
+      "bytes": 14632,
+      "sha256": "f69cd2f489a6e84394ce16e760bbbe58b69fd1ac9bc517db96459346e7038b41"
+    },
+    {
+      "original": "work/cache_analysis/movie_resolver_20261001T115819Z/video_duration_preimage.h",
+      "local": "grim_reference/video_duration_preimage.h",
+      "bytes": 9710,
+      "sha256": "072d2a4395b130394a6a63c85304b55527cc15b5aa1279c511d1a9708102e9e7"
+    },
+    {
+      "original": "work/cache_analysis/audio_proof/vima_scratch_preimage.h",
+      "local": "grim_reference/vima_scratch_preimage.h",
+      "bytes": 38979,
+      "sha256": "d4eb81f4a0b3d4c6a17a1ab09a266431399c9f692aaaf27570f96044b594d0c2"
+    },
+    {
+      "original": "work/graphics_analysis/dsn_shutdown_preimage.h",
+      "local": "grim_reference/dsn_shutdown_preimage.h",
+      "bytes": 9035,
+      "sha256": "786a4b6095a36ffb6b804f37fb93f34ce2f5e167a2f49911377145749e438697"
+    },
+    {
+      "original": "work/graphics_analysis/shared_audio_shutdown_preimage.h",
+      "local": "grim_reference/shared_audio_shutdown_preimage.h",
+      "bytes": 17574,
+      "sha256": "629b6837082620b81cd4831d4863a8116a12d9a43a5d12dd38de0d32518f7358"
+    },
+    {
+      "original": "work/graphics_analysis/gl_upload_preimage.h",
+      "local": "grim_reference/gl_upload_preimage.h",
+      "bytes": 13737,
+      "sha256": "930b1146dc18bf6f2f96e05e51e117f71d0877b22c03d4bcb24c4e9c7372f034"
+    },
+    {
+      "original": "work/graphics_analysis/gl_full_prefix_orphan_preimage.h",
+      "local": "grim_reference/gl_full_prefix_orphan_preimage.h",
+      "bytes": 12530,
+      "sha256": "b5b9e845ade98ab3f010a2cd42200b19c9d843f945f1a8dcdd5fc96ee848bc56"
+    },
+    {
+      "original": "work/graphics_analysis/texture_bulk_preimage.h",
+      "local": "grim_reference/texture_bulk_preimage.h",
+      "bytes": 23433,
+      "sha256": "2685acb884ce8528adfc0f1021e6edc1e08adc184aada00d53e4fdd5bae1a16e"
+    },
+    {
+      "original": "work/graphics_analysis/whole_zero_preimage.h",
+      "local": "grim_reference/whole_zero_preimage.h",
+      "bytes": 18651,
+      "sha256": "340975188b46a9f0847f822db89dec635bbf7e6521cbd1154d30b4ca5fc52b60"
+    },
+    {
+      "original": "work/cleanup_analysis/qa_guard_source.h",
+      "local": "grim_reference/qa_guard_source.h",
+      "bytes": 34367,
+      "sha256": "3feccd59a5c94046763fb280e8fd77ccedf6243f28c1c3700b6ec562679a0c5b"
+    },
+    {
+      "original": "work/cleanup_analysis/qa_one_slot.h",
+      "local": "grim_reference/qa_one_slot.h",
+      "bytes": 4330,
+      "sha256": "bf8ba713c4bd8201d9d18cea179628081c6bbd7c5f23ae6154cd5d8a7cc0459f"
+    }
+  ]
+}
